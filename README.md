@@ -4,8 +4,6 @@
     <div id="badges">
         <a href="https://www.linkedin.com/in/mukhammad-tokayev-911179280/">
             <img src="https://i.ibb.co.com/gVtk98N/free-icon-social-11516065.png" alt="free-icon-social-11516065" border="0"></a>
-  <a href="https://vk.com/troublemak">
-    <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
   </a>
   <a href="mukhammadtokayev@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
