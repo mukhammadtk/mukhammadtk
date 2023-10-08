@@ -2,9 +2,10 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     <div id="badges">
+     </a>
         <a href="https://www.linkedin.com/in/mukhammad-tokayev-911179280/">
-            <img src="https://i.ibb.co.com/gVtk98N/free-icon-social-11516065.png" alt="free-icon-social-11516065" border="0"></a>
-  </a>
+            <img src="https://i.ibb.co.com/LNSHqQx/imgonline-com-ua-Resize-LWl1y-Xyh8-Bfx-K.jpg" alt="imgonline-com-ua-Resize-LWl1y-Xyh8-Bfx-K" border="0"></a>
+  
   <a href="mukhammadtokayev@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
   </a>
